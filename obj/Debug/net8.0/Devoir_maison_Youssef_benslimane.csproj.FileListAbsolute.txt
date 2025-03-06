@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\bin\Debug\net8.0\Devoir_maison_Youssef_benslimane.exe
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\bin\Debug\net8.0\Devoir_maison_Youssef_benslimane.deps.json
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\bin\Debug\net8.0\Devoir_maison_Youssef_benslimane.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\bin\Debug\net8.0\Devoir_maison_Youssef_benslimane.dll
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\bin\Debug\net8.0\Devoir_maison_Youssef_benslimane.pdb
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.dll
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\refint\Devoir_maison_Youssef_benslimane.dll
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.pdb
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\Devoir_maison_Youssef_benslimane.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Devoir_maison_Youssef_benslimane\obj\Debug\net8.0\ref\Devoir_maison_Youssef_benslimane.dll
